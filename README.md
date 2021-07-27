@@ -15,12 +15,13 @@
   <h2>Some stats</h2>
   
   <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Santeenee&theme=rogue"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Santeenee&theme=redical&point=D83A7C&line=D83A7C"/>
   </a>  
   
   <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
     <img src="https://github-readme-stats.vercel.app/api?username=Santeenee&show_icons=true&theme=radical"/>
-  </a>    
+  </a>   
+  
   <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santeenee&layout=compact&theme=radical"/>
   </a>
