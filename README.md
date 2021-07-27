@@ -32,6 +32,7 @@
   
   <a href="https://github.com/topics/node"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
   <a href="https://github.com/topics/firebase"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
+  <a href="https://github.com/topics/netlify"><img src="https://shields.io/badge/Netlify-42A5BD?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </div>
 
 <!--
