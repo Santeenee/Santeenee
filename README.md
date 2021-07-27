@@ -14,8 +14,16 @@
 <div align="center">
   <h2>Some stats</h2>
   
-  <a href="https://github.com/Santeenee?tab=repositories&q=&type=public"><img src="https://github-readme-stats.vercel.app/api?username=Santeenee&show_icons=true&theme=radical"/></a>    
-  <a href="https://github.com/Santeenee?tab=repositories&q=&type=public"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santeenee&layout=compact&theme=radical"/></a>
+  <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Santeenee&theme=rogue"/>
+  </a>  
+  
+  <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
+    <img src="https://github-readme-stats.vercel.app/api?username=Santeenee&show_icons=true&theme=radical"/>
+  </a>    
+  <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santeenee&layout=compact&theme=radical"/>
+  </a>
 
   <h3>My favourite languages, tools and technologies</h3>
 
