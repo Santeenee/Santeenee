@@ -15,7 +15,7 @@
   <h2>Some stats</h2>
   
   <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Santeenee&theme=redical&point=D83A7C&line=D83A7C"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Santeenee&theme=redical&point=D83A7C&line=D83A7C&custom_title=Contributions%20in%20the%20last%2031%20days"/>
   </a>  
   
   <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
