@@ -6,7 +6,7 @@
 
 #### What's going on?
 
-- 🌱 I’m currently learning [SASS](https://github.com/Santeenee/learning-SASS), [async JS](https://github.com/Santeenee/async-javascript) and I am working on [this website](https://santeenee-flexbox.netlify.app) about Flexbox
+- 🌱 I’m currently learning [SASS](https://github.com/Santeenee/learning-SASS), [async JS](https://github.com/Santeenee/async-javascript) and I am working on [this project](https://github.com/gr3it/learning-grid) about CSS Grid
 - 🔭 I’m constantly improving my web dev skills to become a <em>full stack web developer!</em>
 - 📆 I'm looking forward to learn and deepen technologies such as Javascript and its frameworks.
 - ⚡ Working hard to live each day better than the last!
