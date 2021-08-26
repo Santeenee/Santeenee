@@ -44,6 +44,10 @@
   <a href="https://github.com/topics/netlify"><img src="https://shields.io/badge/Netlify-42A5BD?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </div>
 
+<!--[![Visits Badge](https://badges.pufler.dev/visits/Santeenee/PHP-Exercises)](https://badges.pufler.dev)-->
+
+
+
 <!--
 **Santeenee/Santeenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
