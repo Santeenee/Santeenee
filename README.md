@@ -12,8 +12,10 @@
 - ⚡ Working hard to live each day better than the last!
 
 <div align="center">
-  <h2>Some stats</h2>
   
+  <details>    
+    <summary><b>Some stats</b></summary>
+  <br>
   <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
     <img src="https://activity-graph.herokuapp.com/graph?username=Santeenee&theme=redical&point=D83A7C&line=D83A7C&custom_title=Contributions%20in%20the%20last%2031%20days"/>
   </a>  
@@ -22,11 +24,14 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Santeenee&show_icons=true&theme=radical"/>
   </a>   
   
-  <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santeenee&layout=compact&theme=radical"/>
+  <a href="https://github.com/Santeenee?tab=repositories&q=&type=public" align="top">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santeenee&layout=compact&theme=radical"  align="top"/>
   </a>
+</details>
 
-  <h3>My favourite languages, tools and technologies</h3>
+  <details>
+    <summary><b>My favourite languages, tools and technologies</b></summary>
+  <br>
 
   <a href="https://github.com/topics/visual-studio-code"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
   <a href="https://github.com/topics/html5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -43,7 +48,7 @@
   <a href="https://github.com/topics/firebase"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
   <a href="https://github.com/topics/netlify"><img src="https://shields.io/badge/Netlify-42A5BD?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </div>
-
+</details>
 <!--[![Visits Badge](https://badges.pufler.dev/visits/Santeenee/PHP-Exercises)](https://badges.pufler.dev)-->
 
 
