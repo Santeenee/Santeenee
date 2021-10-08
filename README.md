@@ -24,7 +24,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Santeenee&show_icons=true&theme=radical"/>
   </a>   
   
-  <a href="https://github.com/Santeenee?tab=repositories&q=&type=public" align="top">
+  <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santeenee&layout=compact&theme=radical"  align="top"/>
   </a>
 </details>
