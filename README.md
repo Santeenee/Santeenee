@@ -6,7 +6,7 @@
 
 #### What's going on?
 
-- 🌱 I’m currently learning CSS, [SASS](https://github.com/Santeenee/learning-SASS), [async JS](https://github.com/Santeenee/async-javascript) and I am working on [this project](https://github.com/Santeenee/interactive-flexbox) about CSS flexbox
+- 🌱 I’m currently learning CSS, [SASS](https://github.com/Santeenee/learning-SASS), [async JS](https://github.com/Santeenee/async-javascript) and I am working on a gorgeous (I hope) project called [Interactive-Flexbox](https://github.com/Santeenee/interactive-flexbox)
 - 🔭 I’m constantly improving my web dev skills to become a <em>full stack web developer!</em>
 - 📆 I'm looking forward to learn and deepen technologies such as Javascript and its frameworks.
 - ⚡ Working hard to live each day better than the last!
