@@ -6,11 +6,12 @@
 
 #### What's going on?
 
-- 👀 I'm currently working on some projects like
+- 👀 I'm currently working on some projects
 
-  - [interactive-flexbox](https://github.com/santeenee/interactive-flexbox) `semi-completed`
-  - [jspong](https://github.com/santeenee/jspong) `hard, halfway through`
-  - [movies-to-watch](https://github.com/santeenee/movies-to-watch) `hard, barely started`
+  - [interactive-flexbox](https://github.com/santeenee/interactive-flexbox) 
+  - [jspong](https://github.com/santeenee/jspong) 
+  - [movies-to-watch](https://github.com/santeenee/movies-to-watch) 
+  - [bikes-project](https://github.com/Santeenee/WEB-exercises/tree/master/JS/bike-project)
 - 🌱 I’m currently learning CSS, [SASS](https://github.com/Santeenee/learning-SASS) and [async JS](https://github.com/Santeenee/async-javascript)
 - 🔭 I’m constantly improving my web dev skills to become a <em>full stack web developer!</em>
 - 📆 I'm looking forward to learn and deepen technologies such as Javascript and its frameworks.
