@@ -9,6 +9,7 @@
 - 👀 I'm currently working on some projects
 
   - [web-exercises](https://github.com/Santeenee/WEB-exercises)
+  - [java-exercises](https://github.com/Santeenee/java-exercises)
   - [interactive-flexbox](https://github.com/santeenee/interactive-flexbox) 
   - [jspong](https://github.com/santeenee/jspong) 
   - [movies-to-watch](https://github.com/santeenee/movies-to-watch)
