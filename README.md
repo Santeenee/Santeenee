@@ -9,10 +9,7 @@
 - 👀 I'm currently working on some projects
 
   - [bike-rental](https://rentals-bike.web.app)
-  - [web-exercises](https://github.com/Santeenee/WEB-exercises)
-  - [java-exercises](https://github.com/Santeenee/java-exercises)
-  - [interactive-flexbox](https://github.com/santeenee/interactive-flexbox) 
-  - [jspong](https://github.com/santeenee/jspong) (work in progress...)
+  - [jspong](https://github.com/santeenee/jspong) (work in progress, works only for pc)
 - 🌱 I’m currently learning CSS, [SASS](https://github.com/Santeenee/learning-SASS) and [async JS](https://github.com/Santeenee/async-javascript)
 - 🔭 I’m constantly improving my web dev skills to become a <em>full stack web developer!</em>
 - 📆 I'm looking forward to learn and deepen technologies such as Javascript and its frameworks.
