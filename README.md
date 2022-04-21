@@ -8,6 +8,7 @@
 
 - 👀 I'm currently working on some projects
 
+  - [bike-rental](https://rentals-bike.web.app)
   - [web-exercises](https://github.com/Santeenee/WEB-exercises)
   - [java-exercises](https://github.com/Santeenee/java-exercises)
   - [interactive-flexbox](https://github.com/santeenee/interactive-flexbox) 
