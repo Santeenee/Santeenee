@@ -10,7 +10,7 @@
 
   - [bike-rental](https://rentals-bike.web.app)
   - [jspong](https://github.com/santeenee/jspong) (work in progress, works only for pc)
-- 🌱 I’m currently learning CSS, [SASS](https://github.com/Santeenee/learning-SASS) and [async JS](https://github.com/Santeenee/async-javascript)
+- 🌱 I’m currently learning CSS, SASS, [Javascript](https://github.com/santeenee/web-exercises), [Java](https://github.com/santeenee/java-exercises), etc...
 - 🔭 I’m constantly improving my web dev skills to become a <em>full stack web developer!</em>
 - 📆 I'm looking forward to learn and deepen technologies such as Javascript and its frameworks.
 - ⚡ Working hard to live each day better than the last!
