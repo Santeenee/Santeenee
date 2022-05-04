@@ -11,7 +11,7 @@
   - [learning-react](https://github.com/santeenee/learning-react)
   - [bike-rental](https://rentals-bike.web.app)
   - [jspong](https://github.com/santeenee/jspong) (work in progress, works only for pc)
-- 🌱 I’m currently learning CSS, SASS, [Javascript](https://github.com/santeenee/web-exercises), [Java](https://github.com/santeenee/java-exercises), etc...
+- 🌱 I’m currently learning CSS, SASS, [React](https://github.com/santeenee/learning-react), [Java](https://github.com/santeenee/java-exercises), etc...
 - 🔭 I’m constantly improving my web dev skills to become at least a <em>frontend web developer!</em>
 - 📆 I'm looking forward to learn and deepen technologies such as Javascript and its frameworks.
 - ⚡ Working hard to live each day better than the last!
