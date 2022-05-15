@@ -8,8 +8,8 @@
 
 - 👀 I'm currently working on some projects
 
+  - [a company-project website](https://droni.asistar.it)
   - [learning-react](https://github.com/santeenee/learning-react)
-  - [bike-rental](https://rentals-bike.web.app)
   - [jspong](https://github.com/santeenee/jspong) (work in progress, works only for pc)
 - 🌱 I’m currently learning CSS, SASS, [React](https://github.com/santeenee/learning-react), [Java](https://github.com/santeenee/java-exercises), etc...
 - 🔭 I’m constantly improving my web dev skills to become at least a <em>frontend web developer!</em>
