@@ -11,6 +11,7 @@
   - [learning-react](https://github.com/santeenee/learning-react)
   - [a company-project website](https://droni.asistar.it)
   - [jspong](https://github.com/santeenee/jspong) (work in progress, works only for pc)
+  - see suggested repos below
 - 🌱 I’m currently learning CSS, SASS, [React](https://github.com/santeenee/learning-react), [Java](https://github.com/santeenee/java-exercises), etc...
 - 🔭 I’m constantly improving my web dev skills to become at least a <em>frontend web developer!</em>
 - 📆 I'm looking forward to learn and deepen technologies such as Javascript and its frameworks.
