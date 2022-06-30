@@ -8,7 +8,7 @@
 
 - 👀 I'm currently working on some projects
 
-  - [tic-tac-toe](https://github.com/santeenee/simple-react-project)
+  - [tic-tac-toe in Reactjs](https://github.com/santeenee/simple-react-project)
   - [learning-react](https://github.com/santeenee/learning-react)
   - [a company-project website](https://droni.asistar.it)
   - [jspong](https://github.com/santeenee/jspong) (work in progress, works only for pc)
