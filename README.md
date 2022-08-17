@@ -8,11 +8,11 @@
 
 - 👀 I'm currently working on some projects
 
-  - [tic-tac-toe in Reactjs](https://github.com/santeenee/simple-react-project)
-  - [learning-react](https://github.com/santeenee/learning-react)
-  - [a company-project website](https://droni.asistar.it)
-  - [jspong](https://github.com/santeenee/jspong) (work in progress, works only for pc)
-  - see suggested repos below
+  - **[Interactive Flexbox](https://santeenee-flexbox.netlify.app "JUST GIVE IT A TRY")** -> Learn Flexbox the easy way🤗
+  - **[Rock-Paper-Scissor Game](https://santeenee-rps.netlify.app "Wanna play?")**
+  - **[CSS Typewriter Animation](https://santeenee-typewriter.netlify.app "Smoooooth")**
+  - **[Bike Rental](https://rentals-bike.web.app "Just some bikes, nothing to see here")** -> School project with the use of Firebase Hosting and Firestore Database
+  
 - 🌱 I’m currently learning CSS, SASS, [React](https://github.com/santeenee/learning-react), [Java](https://github.com/santeenee/java-exercises), etc...
 - 🔭 I’m constantly improving my web dev skills to become at least a <em>frontend web developer!</em>
 - 📆 I'm looking forward to learn and deepen technologies such as Javascript and its frameworks.
