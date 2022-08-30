@@ -11,7 +11,7 @@
   - **[Interactive Flexbox](https://santeenee-flexbox.netlify.app "JUST GIVE IT A TRY")** -> Learn Flexbox the easy way🤗
   - **[Rock-Paper-Scissor Game](https://santeenee-rps.netlify.app "Wanna play?")**
   - **[CSS Typewriter Animation](https://santeenee-typewriter.netlify.app "Smoooooth")**
-  - **[Bike Rental](https://rentals-bike.web.app "Just some bikes, nothing to see here")** -> School project with the use of Firebase Hosting and Firestore Database
+  - **[Bike Rental](https://rentals-bike.web.app "Just some bikes, nothing to see here")** -> School project using Firebase Hosting and Firestore Database
   
 - 🌱 I’m currently learning CSS, SASS, [React](https://github.com/santeenee/learning-react), [Java](https://github.com/santeenee/java-exercises), etc...
 - 🔭 I’m constantly improving my web dev skills to become at least a <em>frontend web developer!</em>
