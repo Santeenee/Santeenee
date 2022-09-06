@@ -8,7 +8,7 @@
 
 - 👀 I'm currently working on some projects
 
-  - **[Interactive Flexbox](https://santeenee-flexbox.netlify.app "JUST GIVE IT A TRY")** -> Learn Flexbox the easy way🤗
+  - **[Interactive Flexbox](https://santeenee-flexbox.netlify.app "JUST GIVE IT A TRY")** -> Learn CSS Flexbox the easy way🤗
   - **[Rock-Paper-Scissor Game](https://santeenee-rps.netlify.app "Wanna play?")**
   - **[CSS Typewriter Animation](https://santeenee-typewriter.netlify.app "Smoooooth")**
   - **[Bike Rental](https://rentals-bike.web.app "Just some bikes, nothing to see here")** -> School project using Firebase Hosting and Firestore Database
