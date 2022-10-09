@@ -13,7 +13,7 @@
   - **[CSS Typewriter Animation](https://santeenee-typewriter.netlify.app "Smoooooth")**
   - **[Bike Rental](https://rentals-bike.web.app "Just some bikes, nothing to see here")** -> School project using Firebase Hosting and Firestore Database
   
-- 🌱 I’m currently learning computer networks, cloud computing, web dev with [Reactjs](https://github.com/santeenee/learning-react), etc...
+- 🌱 I’m currently learning project management, cloud computing, web dev with [Reactjs](https://github.com/santeenee/learning-react), computer networks, etc...
 - 🔭 I’m constantly improving my web dev skills to become at least a <em>frontend web developer!</em>
 - 📆 I'm looking forward to learn and deepen technologies such as Javascript and its frameworks.
 - ⚡ Working hard to live each day better than the last!
