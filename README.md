@@ -6,7 +6,7 @@
 
 #### What's going on?
 
-- 👀 I'm currently working on some projects
+- 👀 These are some of my best mini-projects so far
 
   - **[Interactive Flexbox](https://santeenee-flexbox.netlify.app "JUST GIVE IT A TRY")** -> Learn CSS Flexbox the easy way🤗
   - **[Rock-Paper-Scissor Game](https://santeenee-rps.netlify.app "Wanna play?")**
