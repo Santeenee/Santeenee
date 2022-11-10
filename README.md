@@ -4,18 +4,16 @@
   <p>I am a student based in Trento, Italy. I am fond of music, web development and helping others to live well.</p>
 </div>
 
-#### What's going on?
+#### 👀 My best mini-projects so far
+  - **[Interactive Flexbox](https://santeenee-flexbox.netlify.app "JUST GIVE IT A TRY")** [[repo]](https://github.com/santeenee/interactive-flexbox) -> Learn CSS Flexbox the easy way🤗
+  - **[Rock-Paper-Scissor Game](https://santeenee-rps.netlify.app "Wanna play?")** [[repo]](https://github.com/Santeenee/Rock-Paper-Scissors--VanillaJS)
+  - **[CSS Typewriter Animation](https://santeenee-typewriter.netlify.app "Smoooooth")** [[repo]](https://github.com/Santeenee/Typewriter-CSSonly-animation)
+  - **[Bike Rental](https://rentals-bike.web.app "Just some bikes, nothing to see here")** [[repo]](https://github.com/Santeenee/bike-rental) -> School project using Firebase Hosting and Firestore database
 
-- 👀 These are some of my best mini-projects so far
-
-  - **[Interactive Flexbox](https://santeenee-flexbox.netlify.app "JUST GIVE IT A TRY") [[repo]](https://github.com/santeenee/interactive-flexbox)** -> Learn CSS Flexbox the easy way🤗
-  - **[Rock-Paper-Scissor Game](https://santeenee-rps.netlify.app "Wanna play?") [[repo]](https://github.com/Santeenee/Rock-Paper-Scissors--VanillaJS)**
-  - **[CSS Typewriter Animation](https://santeenee-typewriter.netlify.app "Smoooooth") [[repo]](https://github.com/Santeenee/Typewriter-CSSonly-animation)**
-  - **[Bike Rental](https://rentals-bike.web.app "Just some bikes, nothing to see here") [[repo]](https://github.com/Santeenee/bike-rental)** -> School project using Firebase Hosting and Firestore Database
-  
-- 🌱 I’m currently learning project management, cloud computing, web dev with [Reactjs](https://github.com/santeenee/learning-react), computer networks, etc...
-- 🔭 I’m constantly improving my web dev skills to become at least a <em>frontend web developer!</em>
-- 📆 I'm looking forward to learn and deepen technologies such as Javascript and its frameworks.
+#### About me
+- 🌱 I’m currently learning project management, cloud computing, web dev ([Reactjs](https://github.com/santeenee/learning-react), Svelte, ...), computer networks, etc...
+- 🔭 I’m constantly improving my web dev skills to become at least a frontend web developer!
+- 📆 I'm looking forward to learn and deepen technologies regarding the JS world.
 - ⚡ Working hard to live each day better than the last!
 
 <div align="center">
