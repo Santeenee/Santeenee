@@ -5,6 +5,7 @@
 </div>
 
 ### 👀 My best mini-projects so far
+  - **[Music Player in React & TS [repo]](https://github.com/Santeenee/music-player-react-ts)**
   - **[Interactive Flexbox](https://santeenee-flexbox.netlify.app "JUST GIVE IT A TRY")** [[repo]](https://github.com/santeenee/interactive-flexbox) -> Learn CSS Flexbox the easy way🤗
   - **[Rock-Paper-Scissor Game](https://santeenee-rps.netlify.app "Wanna play?")** [[repo]](https://github.com/Santeenee/Rock-Paper-Scissors--VanillaJS)
   - **[CSS Typewriter Animation](https://santeenee-typewriter.netlify.app "Smoooooth")** [[repo]](https://github.com/Santeenee/Typewriter-CSSonly-animation)
