@@ -13,9 +13,7 @@
 
 ### 😎 About me
 - 🌱 I’m currently learning project management, cloud computing, web dev ([Reactjs](https://github.com/santeenee/learning-react), Svelte, ...), computer networks, etc...
-- 🔭 I’m constantly improving my web dev skills to become at least a frontend web developer!
-- 📆 I'm looking forward to learn and deepen technologies regarding the JS world.
-- ⚡ Working hard to live each day better than the last!
+- 🔭 I’m constantly improving my web dev skills to be a better frontend web developer!
 
 <div align="center">
   
