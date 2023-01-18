@@ -12,19 +12,26 @@
   - **[Bike Rental](https://rentals-bike.web.app "Just some bikes, nothing to see here")** [[repo]](https://github.com/Santeenee/bike-rental) -> School project using Firebase Hosting and Firestore noSQL database
 
 ### 😎 About me
-- 🌱 I’m currently learning project management, cloud computing, web dev ([Reactjs](https://github.com/santeenee/learning-react), Svelte, ...), computer networks, etc...
-- 🔭 I’m constantly improving my web dev skills to be a better frontend web developer!
+- 🌱 I’m currently learning databases, cloud computing, web development ([Reactjs](https://github.com/santeenee/learning-react), [Angular](https://github.com/santeenee/learning-angular) and Svelte) and computer networks
+- 🎵 I usually enjoy a lot spending my free time playing the clarinet 
+  (besides coding of course, I have to maintain some mental health after all...)
+
+<!-- 
 
 <div align="center">
   
   <details>    
     <summary><b>Some stats</b></summary>
   <br>
-<!--   <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
+    
+    
+ 
+ 
+<a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
     <img src="https://activity-graph.herokuapp.com/graph?username=Santeenee&theme=redical&point=D83A7C&line=D83A7C&custom_title=Contributions%20in%20the%20last%2031%20days"/>
   </a>   -->
   
-  <a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
+  <!--<a href="https://github.com/Santeenee?tab=repositories&q=&type=public">
     <img src="https://github-readme-stats.vercel.app/api?username=Santeenee&show_icons=true&theme=radical"/>
   </a>   
   
@@ -52,7 +59,9 @@
   <a href="https://github.com/topics/firebase"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a>
   <a href="https://github.com/topics/netlify"><img src="https://shields.io/badge/Netlify-42A5BD?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </div>
-</details>
+</details> 
+
+-->
 <!--[![Visits Badge](https://badges.pufler.dev/visits/Santeenee/PHP-Exercises)](https://badges.pufler.dev)-->
 
 
