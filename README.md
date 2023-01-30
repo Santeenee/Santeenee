@@ -12,7 +12,7 @@
   - **[Bike Rental](https://rentals-bike.web.app "Just some bikes, nothing to see here")** [[repo]](https://github.com/Santeenee/bike-rental) -> School project using Firebase Hosting and Firestore noSQL database
 
 ### 😎 About me
-- 🌱 I’m currently learning databases, cloud computing, web development ([Reactjs](https://github.com/santeenee/learning-react), [Angular](https://github.com/santeenee/learning-angular) and Svelte) and computer networks
+- 🌱 I’m currently learning databases, cloud computing, web development ([Reactjs](https://github.com/santeenee/learning-react), [Angular](https://github.com/santeenee/learning-angular) and Svelte), computer networks and cryptography
 - 🎵 I usually enjoy a lot spending my free time playing the clarinet 
   (besides coding of course, I have to maintain some mental health after all...)
 
