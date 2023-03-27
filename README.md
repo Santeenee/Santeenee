@@ -5,10 +5,10 @@
 </div>
 
 ### 👀 My best mini-projects so far
-  - **[Music Player in React & TypeScript](https://music-player-francesco.vercel.app/ "music player tipo spotify")** [[repo]](https://github.com/Santeenee/music-player-react-ts)
-  - **[Interactive Flexbox](https://santeenee-flexbox.netlify.app "JUST GIVE IT A TRY")** [[repo]](https://github.com/santeenee/interactive-flexbox) -> Learn CSS Flexbox the easy way🤗
-  - **[Rock-Paper-Scissor Game](https://santeenee-rps.netlify.app "Wanna play?")** [[repo]](https://github.com/Santeenee/Rock-Paper-Scissors--VanillaJS)
-  - **[CSS Typewriter Animation](https://santeenee-typewriter.netlify.app "Smoooooth")** [[repo]](https://github.com/Santeenee/Typewriter-CSSonly-animation)
+  - **[Music Player in React & TypeScript](https://francesco-music.vercel.app/ "a chill music player")** [[repo]](https://github.com/Santeenee/music-player-react-ts)
+  - **[Interactive Flexbox](https://santeenee-flexbox.netlify.app "Do you want to learn CSS Flexbox or not?")** [[repo]](https://github.com/santeenee/interactive-flexbox) -> Learn CSS Flexbox the easy way🤗
+  - **[Rock-Paper-Scissor Game](https://santeenee-rps.netlify.app "Wanna play rock-paper-scissors?")** [[repo]](https://github.com/Santeenee/Rock-Paper-Scissors--VanillaJS)
+  - **[CSS Typewriter Animation](https://santeenee-typewriter.netlify.app "Smooth animation with css ONLY")** [[repo]](https://github.com/Santeenee/Typewriter-CSSonly-animation)
   - **[Bike Rental](https://rentals-bike.web.app "Just some bikes, nothing to see here")** [[repo]](https://github.com/Santeenee/bike-rental) -> School project using Firebase Hosting and Firestore noSQL database
 
 ### 😎 About me
