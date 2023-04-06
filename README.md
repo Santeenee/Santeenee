@@ -9,6 +9,7 @@
   - **[Interactive Flexbox](https://santeenee-flexbox.netlify.app "Do you want to learn CSS Flexbox or not?")** [[repo]](https://github.com/santeenee/interactive-flexbox) -> Learn CSS Flexbox the easy way🤗
   - **[Rock-Paper-Scissor Game](https://santeenee-rps.netlify.app "Wanna play rock-paper-scissors?")** [[repo]](https://github.com/Santeenee/Rock-Paper-Scissors--VanillaJS)
   - **[CSS Typewriter Animation](https://santeenee-typewriter.netlify.app "Smooth animation with css ONLY")** [[repo]](https://github.com/Santeenee/Typewriter-CSSonly-animation)
+  - **TicTacToe game**[[repo]](https://github.com/Santeenee/TicTacToe)
   - **[Bike Rental](https://rentals-bike.web.app "Just some bikes, nothing to see here")** [[repo]](https://github.com/Santeenee/bike-rental) -> School project using Firebase Hosting and Firestore noSQL database
 
 ### 😎 About me
