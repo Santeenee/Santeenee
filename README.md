@@ -1,7 +1,7 @@
 <div align="center">
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="50"/> Hello there! Nice to see you.</h1>
 
-  <p>I am a student based in Trento, Italy. I am fond of music, web development and helping others to live well.</p>
+  <p>I am a frontend developer based in Trento, Italy. I am fond of music (I play the clarinet), web development and curiosity.</p>
 </div>
 
 ### 👀 My best mini-projects so far
