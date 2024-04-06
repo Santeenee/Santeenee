@@ -1,8 +1,8 @@
-<div align="center">
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="50"/> Hello there! Nice to see you.</h1>
+# Hello there! Nice to see you (〃￣︶￣)人(￣︶￣〃)
 
-  <p>I am a frontend developer based in Trento, Italy. I am fond of music (I play the clarinet), web development and curiosity.</p>
-</div>
+I am a frontend developer based in Trento, Italy. 
+
+I am fond of music, web development and curiosity.
 
 ### 👀 Some of my mini-projects
   - **[Music Player in React & TypeScript](https://francesco-music.vercel.app/ "a chill music player")** | [[repo]](https://github.com/Santeenee/music-player-react-ts)
@@ -20,3 +20,4 @@
 - I usually enjoy spending my free time playing the clarinet 
   (besides coding of course, I have to maintain some mental health after all...)
 - Trekking lover
+- Kind of a book eater
